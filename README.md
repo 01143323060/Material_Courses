@@ -1,7 +1,7 @@
 ## Course Materials
 
-This repo is for course materials for grade 1.
-It will help you view materials online from here or by downloading them.
+This repository is for course materials for freshman CS students.
+It will allow you to view materials online or download them.
 I wish it would help you one day.
 
 Best wishes,
